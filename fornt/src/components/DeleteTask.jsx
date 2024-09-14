@@ -1,4 +1,4 @@
-import ErrovBack from "../components/ErrovBack";
+import ErrovBack from "./ErrovBack";
 
 const DeleteTask = () => {
   return (
